@@ -142,6 +142,7 @@ jupyter notebook HASTS211_R2423866 finale.ipynb
 8. Aroussi, R. (2019). *yfinance*. PyPI. https://pypi.org/project/yfinance/
 9. Yahoo Finance. (2024). *Historical data: AAPL, MSFT, GLD*. https://finance.yahoo.com/
 10. Alexander, C. (2001). *Market Models*. John Wiley & Sons.
+11. ZOU, Paul. *Module — Econometrics*. Zimbabwe Open University, 2024.
 
 ---
 
